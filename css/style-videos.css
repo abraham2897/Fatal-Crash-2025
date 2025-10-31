@@ -20,6 +20,13 @@
             text-transform: capitalize;
 		}
 
+		
+.header h1{
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
 	
         /** {
             font-family: 'Poppins', sans-serif;
