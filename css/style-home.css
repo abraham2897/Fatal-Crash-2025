@@ -51,6 +51,7 @@ nav a {
    /*margin: 0 1.5% 24px 1.5%;*/
   background-color:red;
   font-size: 10px;
+  text-align: left;
 }
 
 nav a:nth-child(1),
