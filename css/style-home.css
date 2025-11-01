@@ -50,7 +50,7 @@ nav a {
 .debajo{
    /*margin: 0 1.5% 24px 1.5%;*/
   background-color:red;
-  font-size: 5px;
+  font-size: 10px;
 }
 
 nav a:nth-child(1),
