@@ -48,9 +48,9 @@ nav a {
   /*padding: 20px*/
 }
 .debajo{
-  -webkit-font-smoothing: antialiased;
-margin-top:20px;
-  background-color:red;
+   margin: 0;
+  padding: 0 0 0 12px;
+  white-space: nowrap;
 }
 
 nav a:nth-child(1),
