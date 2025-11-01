@@ -4,7 +4,7 @@
 body {
   height: 100vh;
   margin: 0;
-  font-family: "Oswald", sans-serif;
+  font-family: "Archivo Black", sans-serif;
   /*background: radial-gradient(at top, red, rgb(207, 7, 7), rgb(63, 1, 1));*/
   background-image: url("../imagenes/fatal.png");
   background-repeat: no-repeat;
