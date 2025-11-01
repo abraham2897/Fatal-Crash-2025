@@ -47,13 +47,15 @@ nav a {
   font-weight: 300;
   /*padding: 20px*/
 }
-.debajo {
+.debajo img{
   /*margin: 0 1.5% 24px 1.5%;*/
   background-color: rgba(226, 36, 36, 0.466);
   font-size: 10px;
   text-align: right;
   color: white;
   font-family: "Open Sans", sans-serif;
+  width: 10px;
+  height: 10px;
 }
 
 nav a:nth-child(1),
