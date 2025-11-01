@@ -48,7 +48,8 @@ nav a {
   /*padding: 20px*/
 }
 .debajo{
- margin:0 auto;
+  -webkit-font-smoothing: antialiased;
+margin-top:20px;
   background-color:red;
 }
 
