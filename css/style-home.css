@@ -47,6 +47,9 @@ nav a {
   font-weight: 300;
   /*padding: 20px*/
 }
+.debajo nav{
+margin-top: 80px;
+}
 
 nav a:nth-child(1),
 nav a:nth-child(4) {
