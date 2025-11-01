@@ -12,11 +12,11 @@ body {
   overflow: hidden;
 }
 
-h2{
+h2 {
   text-align: center;
   font-size: 50px;
 }
-h3{
+h3 {
   text-align: center;
   font-size: 50;
 }
@@ -47,13 +47,13 @@ nav a {
   font-weight: 300;
   /*padding: 20px*/
 }
-.debajo{
-   /*margin: 0 1.5% 24px 1.5%;*/
-  background-color:rgba(226, 36, 36, 0.466);
+.debajo {
+  /*margin: 0 1.5% 24px 1.5%;*/
+  background-color: rgba(226, 36, 36, 0.466);
   font-size: 10px;
   text-align: right;
   color: white;
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 nav a:nth-child(1),
@@ -181,13 +181,13 @@ a:visited {
 /*MOBILE START*/
 
 @media (max-width: 1200px) {
-  .contenedor .page .contenido{
+  .contenedor .page .contenido {
     margin: 0;
   }
 }
 
 @media (max-width: 450px) {
-  .contenedor .contenido .page{
+  .contenedor .contenido .page {
     font-size: 15px;
     text-align: center;
   }
