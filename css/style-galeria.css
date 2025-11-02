@@ -21,6 +21,7 @@ body {
   font-family: "Open Sans", sans-serif
 }
 table{
+  width: 60px;
 	margin: auto;
 }
 h2{
